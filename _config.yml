@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Diego Gonzalez"
+title                    : "My awesome site"
 title_separator          : "-"
 name                     : &name "Diego Gonzalez"
 description              : &description "PhD Candidate in neuroscience and behavior at UC Santa Barbara"
